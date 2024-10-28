@@ -1,4 +1,4 @@
-![Black and Blue Modern Glossy Inspired Artificial Intelligence Animated Video](https://github.com/user-attachments/assets/c63dd515-b846-456e-b754-ad89d7dba56e)
+!(https://github.com/user-attachments/assets/c63dd515-b846-456e-b754-ad89d7dba56e)
 
 
 ### Hi there 👋, I'm Progga
