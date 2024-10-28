@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Progga
 #### Technical Support Team Lead
-I am a tech professional who is working on maintaining smart charging/grid infrastructures for Electrical Vehicles. I am also a Machine learning enthusiast who is looking for PhD opportunities in Data Science, Machine learning, IoT and Wireless communications.
+I am a tech professional who is working on maintaining smart charging/grid infrastructures for Electrical Vehicles. I am also a Machine learning enthusiast who is looking for PhD opportunities in Data Science, Machine learning, IoT, and Wireless communications.
 
 Skills: Docker / Bash Scripting / Python / CSS / HTML / Devops
 
 - 🔭 I’m currently working on publishing my research on Text to Image generation using MirrorGAN. 
-- 🌱 I’m currently learning GAN 
+- 🌱 I’m currently working on Medical Image Analysis 
 - 👯 I’m looking to collaborate on Github. 
 - 💬 Ask me about anything related to EV. 
 - 📫 How to reach me: niharikaparmita@gmail.com 
