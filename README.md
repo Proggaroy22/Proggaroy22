@@ -1,3 +1,5 @@
+![ezgif-4-52d12cafa7](https://github.com/user-attachments/assets/150e27e1-ec15-4c37-b0bf-b1fe9b4a06d5)
+
 ### Hi there 👋, I'm Progga
 #### Technical Support Team Lead
 I am a tech professional who is working on maintaining smart charging/grid infrastructures for Electrical Vehicles. I am also a Machine learning enthusiast who is looking for PhD opportunities in Machine learning,Deep Learning, Computer Vision, Medical Imaging, IoT, and Wireless communications.
