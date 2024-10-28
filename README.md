@@ -12,7 +12,6 @@ Skills: Python and other programming languages (C, C++, Java, .Net), DevOps work
 - 📄 Know about my experiences https://www.linkedin.com/in/progga-parmita-roy-b25564192/
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Proggaroy22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/progga-parmita-roy-b25564192//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/media/set/?set=a.157052151090354&type=3)  
 
 
 
