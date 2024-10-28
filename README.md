@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Progga
 #### Technical Support Team Lead
-I am a tech professional who is working on maintaining smart charging/grid infrastructures for Electrical Vehicles. I am also a Machine learning enthusiast who is looking for PhD opportunities in Machine learning,Deep Learning, Computer Vision, Medical Imaging, IoT, and Wireless communications.
+I am a tech professional who is working on maintaining Smart Charging/Grid infrastructures for Electrical Vehicles. I am also a Machine Learning enthusiast who is looking for PhD opportunities in Machine Learning, Deep Learning, Computer Vision, Medical Imaging, IoT, and Wireless communications.
 
 Skills: Python and other programming languages (C, C++, Java, .Net), DevOps work experience like scripting, Docker, AWS Cloud Operations.
 
