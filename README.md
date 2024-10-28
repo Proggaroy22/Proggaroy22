@@ -4,8 +4,8 @@ I am a tech professional who is working on maintaining smart charging/grid infra
 
 Skills: Docker / Bash Scripting / Python / CSS / HTML / Devops
 
-- 🌱 I’m currently working on Medical Image Analysis and NLP.
-- 👯 I’m looking to collaborate on Github. 
+- 🌱 I’m currently working on Medical Computer Vision and NLP.
+- 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about anything related to EV. 
 - 📫 How to reach me: niharikaparmita@gmail.com 
 
