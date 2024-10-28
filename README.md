@@ -1,4 +1,5 @@
-![ezgif-4-52d12cafa7](https://github.com/user-attachments/assets/150e27e1-ec15-4c37-b0bf-b1fe9b4a06d5)
+![Black and Blue Modern Glossy Inspired Artificial Intelligence Animated Video](https://github.com/user-attachments/assets/c63dd515-b846-456e-b754-ad89d7dba56e)
+
 
 ### Hi there 👋, I'm Progga
 #### Technical Support Team Lead
